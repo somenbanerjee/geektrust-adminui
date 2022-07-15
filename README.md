@@ -1,4 +1,10 @@
-# Admin UI
+# Geektrust Coding Challenges 
+## Live Demo
+https://geektrust-datatable.netlify.app/
+
+## Challenge URL
+https://www.geektrust.com/coding/detailed/admin-ui
+
 ## These are the requirements :
 
 1. Column titles must stand out from the entries.
